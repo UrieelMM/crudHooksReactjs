@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-5">CRUD</h1>
+      <h1 className="text-center mb-5">CRUD con Hooks de ReactJS</h1>
       <div className="row">
         <div className="col-8 col-sm-6">
           <h4 className="text-center">Lista de Tareas</h4>
